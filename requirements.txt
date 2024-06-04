@@ -1,11 +1,10 @@
-gradio --upgrade
-httpx --upgrade
-pip --upgrade
+gradio
+httpx
 python-dotenv==1.0.0
 langchain-community==0.0.38
 langchain-text-splitters==0.0.1
 langchain-openai==0.0.8
 langchain-core==0.1.52
 langchain==0.1.16
-gradio==3.1.4
-httpx
+pypdf
+chromadb
