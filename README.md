@@ -1,4 +1,3 @@
-```markdown
 # RAG Chatbot Prototype
 
 This README document provides an overview of the RAG (Retrieval-Augmented Generation) Chatbot Prototype. The chatbot utilizes language models and vector database searches to generate contextually relevant responses based on input queries.
@@ -75,5 +74,3 @@ A button is provided in the web interface to clear the chat history when needed.
 Include information about the license under which the project is made available.
 
 For any questions or issues, please open an issue on the project repository.
-
-```
