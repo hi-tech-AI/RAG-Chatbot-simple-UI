@@ -71,6 +71,4 @@ A button is provided in the web interface to clear the chat history when needed.
 
 ## License
 
-Include information about the license under which the project is made available.
-
-For any questions or issues, please open an issue on the project repository.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
