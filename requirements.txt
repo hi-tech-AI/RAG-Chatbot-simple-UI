@@ -1,0 +1,7 @@
+llama-index-llms-cohere
+llama-index
+llama-index-embeddings-cohere
+llama-index-readers-web
+chromadb
+llama-index-vector-stores-chroma
+numpy==1.26.4
